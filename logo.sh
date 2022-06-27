@@ -6,7 +6,7 @@ echo -e "${bblue} ░██     ░██      ░██ ██ ██ ${plain} 
 echo -e "${bblue}  ░██   ░██      ░██  ${plain}   ░░██       ░██  ░██      ░██  ░██${red}      ░██  ░██${plain}   "
 echo -e "${bblue}   ░██ ░██      ░██ ${plain}                ░██ ██        ░██ █${red}█        ░██ ██  ${plain}   "
 echo -e "${bblue}     ░██        ░${plain}██    ░██ ██       ░██ ██        ░█${red}█ ██        ░██ ██  ${plain}  "
-echo -e "${bblue}     ░██ ${plain}       ░██    ░░██         ░██ ░██       ░${red}██ ░██       ░██ ░██ ${plain}  "
-echo -e "${bblue}     ░${plain}██         ░██ ██ ██          ░██  ░░${red}██     ░██  ░░██     ░██  ░░██ ${plain}  "
+echo -e "${bblue}     ░██ ${plain}        ░██    ░░██        ░██ ░██       ░${red}██ ░██       ░██ ░██ ${plain}  "
+echo -e "${bblue}     ░█${plain}█          ░██ ██ ██         ░██  ░░${red}██     ░██  ░░██     ░██  ░░██ ${plain}  "
 
 
