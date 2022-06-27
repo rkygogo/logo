@@ -5,8 +5,8 @@ plain='\033[0m'
 echo -e "${bblue} ░██     ░██      ░██ ██ ██ ${plain}        ░██   ░██     ░██   ░██     ░█${red}█   ░██${plain}  "
 echo -e "${bblue}  ░██   ░██      ░██  ${plain}   ░░██       ░██  ░██      ░██  ░██${red}      ░██  ░██${plain}   "
 echo -e "${bblue}   ░██ ░██      ░██ ${plain}                ░██ ██        ░██ █${red}█        ░██ ██  ${plain}   "
-echo -e "${bblue}     ░██        ░${plain} ██    ░██ ██      ░██ ██        ░█${red}█ ██        ░██ ██  ${plain}  "
-echo -e "${bblue}     ░██ ${plain}         ░██    ░░██       ░██ ░██       ░${red}██ ░██       ░██ ░██ ${plain}  "
-echo -e "${bblue}     ░█${plain} █          ░██ ██ ██        ░██  ░░${red}██     ░██  ░░██     ░██  ░░██ ${plain}  "
+echo -e "${bblue}     ░██        ░${plain}██    ░██ ██       ░██ ██        ░█${red}█ ██        ░██ ██  ${plain}  "
+echo -e "${bblue}     ░██ ${plain}       ░██    ░░██         ░██ ░██       ░${red}██ ░██       ░██ ░██ ${plain}  "
+echo -e "${bblue}     ░${plain}██         ░██ ██ ██          ░██  ░░${red}██     ░██  ░░██     ░██  ░░██ ${plain}  "
 
 
